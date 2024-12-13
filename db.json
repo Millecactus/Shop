@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Gerard",
+      "email": "gerardBouchard@mail.com",
+      "password": "coucou"
+    },
+    {
+      "name": "didier",
+      "email": "didierthetique@gmail.com",
+      "password": "encorecoucou",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "name": "Jean",
+      "price": "500",
+      "img": "/assets/Jean.jpg"
+    },
+    {
+      "name": "Basket",
+      "price": "120"
+    }
+  ]
+}
